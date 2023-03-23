@@ -9,7 +9,8 @@
 ---
 💻 Main Languages
 
-![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue) ![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
+![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue) 
+![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
@@ -32,16 +33,20 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular logo" width="48" height="48" />
       <br>Angular
     </td>
+     <td align="center" width="96">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes logo" width="48" height="48" />
+      <br>Kubernetes
+    </td>
         <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="48" height="48" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker logo" width="48" height="48" />
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" width="48" height="48" alt="GraphQL" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" width="48" height="48" alt="Devops" />
       <br>DevOps
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="JavaScript logo" width="48" height="48" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure logo" width="48" height="48" />
       <br>Azure
     </td>
      <td align="center" width="96">
